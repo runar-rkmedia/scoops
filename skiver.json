@@ -1,0 +1,21 @@
+{
+    "version": "0.4.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/runar-rkmedia/scoops/releases/download/v0.4.1/skiver_0.4.1_Windows_i386.tar.gz\"",
+            "bin": [
+                "skiver_api_windows_386.exe",
+                "skiver_windows_386.exe"
+            ],
+            "hash": "9fdf5598edc592317a9a8cdee2123f4005c2a563800b421f8716a30a8154b7ba"
+        },
+        "64bit": {
+            "url": "https://github.com/runar-rkmedia/scoops/releases/download/v0.4.1/skiver_0.4.1_Windows_x86_64.tar.gz\"",
+            "bin": [
+                "skiver_api_windows_amd64.exe",
+                "skiver_windows_amd64.exe"
+            ],
+            "hash": "e5ef3296dd68e19df79bccaaa4b4c23dbea23a45431cc917badfc4aaf68eeb2e"
+        }
+    }
+}
