@@ -4,16 +4,16 @@
         "32bit": {
             "url": "https://github.com/runar-rkmedia/skiver/releases/download/v0.4.1/skiver_0.4.1_Windows_i386.tar.gz",
             "bin": [
-                "skiver_windows_386.exe"
+                "skiver.exe"
             ],
-            "hash": "a2391cdfc1dbe86922fffe13817a9a6d0e61749cbb8525584f2e6af632ef416a"
+            "hash": "21956f351c131231f77943fb84bc3b5dc13f190f9425263f4fcffa3da923ab90"
         },
         "64bit": {
             "url": "https://github.com/runar-rkmedia/skiver/releases/download/v0.4.1/skiver_0.4.1_Windows_x86_64.tar.gz",
             "bin": [
-                "skiver_windows_amd64.exe"
+                "skiver.exe"
             ],
-            "hash": "6c060d01431d39597e7ffcfe50e6920cdc6e5eb0793ddc9fb84adc9230f32afd"
+            "hash": "b5fa9b3e76613ef8fce359a8008acc5be7f58a6b793d0c208d1208a26340a6cf"
         }
     }
 }
