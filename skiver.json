@@ -1,19 +1,19 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/runar-rkmedia/skiver-cli/releases/download/v0.5.2/skiver_Windows_i386.zip",
+            "url": "https://github.com/runar-rkmedia/skiver-cli/releases/download/v0.5.3/skiver_Windows_i386.zip",
             "bin": [
                 "skiver.exe"
             ],
-            "hash": "d4d4bc4afaf0e26e5b7432a8390bc5b4aa0023129cb2ec4871d25e4d1fd28f52"
+            "hash": "2d3db1ba9559e75be67ebc290da2085d3ba6627a01283f7e51e4081902c6c3b2"
         },
         "64bit": {
-            "url": "https://github.com/runar-rkmedia/skiver-cli/releases/download/v0.5.2/skiver_Windows_x86_64.zip",
+            "url": "https://github.com/runar-rkmedia/skiver-cli/releases/download/v0.5.3/skiver_Windows_x86_64.zip",
             "bin": [
                 "skiver.exe"
             ],
-            "hash": "08a4fe7c3f0a480895a0dea596b5345715019c1ae8a221beb84e6ab5764d921a"
+            "hash": "73e626d4f7dc586100b68c4c35e43dde7b7e2a383e81f5fa18e8c93822b36588"
         }
     }
 }
